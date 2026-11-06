@@ -18,7 +18,7 @@ ChatGPT 官方入口是 [https://chatgpt.com](https://chatgpt.com)，这是 Open
 LazyManAI 与 LuckAI 均为第三方平台，不代表 OpenAI；具体模型、功能和数据政策请以各自页面及服务条款为准。它们不是 ChatGPT 官方入口。
 :::
 
-<img src="/images/articles/chatgpt-official-entry-2026/overview.webp" alt="2026 年 ChatGPT 官网入口、国内直连平台与模型选择关系示意图" width="1200" height="809" fetchpriority="high" decoding="async">
+<img src="https://www.codex-chinese.com/images/articles/chatgpt-official-entry-2026/overview.webp" alt="2026 年 ChatGPT 官网入口、国内直连平台与模型选择关系示意图" width="1200" height="809" fetchpriority="high" decoding="async">
 
 ## 一、先分清“官方入口”和“国内服务平台”
 
@@ -43,9 +43,9 @@ LazyManAI 与 LuckAI 均为第三方平台，不代表 OpenAI；具体模型、�
 
 找入口时，先根据自己要做的事情区分官网、中文版和网页版。它们并不是三个不同的 OpenAI 官方入口：“官网”指服务来源，“网页版”指使用方式；“中文版”通常表示中文界面或中文对话，也可能是第三方平台提供的中文服务。可按下面的说明继续查看对应教程：
 
-- **查找 ChatGPT 官网**：官方网页版主入口为 [chatgpt.com](https://chatgpt.com/)。登录前核对地址栏中的主域名；需要识别仿冒网站时，可阅读[ChatGPT 官网入口与真假网站识别](/chatgpt/guides/chatgpt-com-official-entry-verification-2026)。
-- **使用 ChatGPT 中文版**：在官方 ChatGPT 中可以直接用中文提问，不需要另找所谓“中文官网”。如果你想了解中文对话、模型权限和第三方中文平台的区别，可参考[ChatGPT 中文版使用指南](/chatgpt/guides/chatgpt-chinese-gpt-6-astra-domestic-guide-2026)。
-- **打开 ChatGPT 网页版**：在浏览器访问 `https://chatgpt.com` 即可使用网页端，注册或登录入口、域名核验步骤见[ChatGPT 网页版注册登录与官网核验](/chatgpt/guides/chatgpt-official-entry-login-verification-2026)。网页版无需安装客户端；可用功能仍以账号权限、支持地区和页面当前状态为准。
+- **查找 ChatGPT 官网**：官方网页版主入口为 [chatgpt.com](https://chatgpt.com/)。登录前核对地址栏中的主域名；需要识别仿冒网站时，可阅读[ChatGPT 官网入口与真假网站识别](https://www.codex-chinese.com/chatgpt/guides/chatgpt-com-official-entry-verification-2026)。
+- **使用 ChatGPT 中文版**：在官方 ChatGPT 中可以直接用中文提问，不需要另找所谓“中文官网”。如果你想了解中文对话、模型权限和第三方中文平台的区别，可参考[ChatGPT 中文版使用指南](https://www.codex-chinese.com/chatgpt/guides/chatgpt-chinese-gpt-6-astra-domestic-guide-2026)。
+- **打开 ChatGPT 网页版**：在浏览器访问 `https://chatgpt.com` 即可使用网页端，注册或登录入口、域名核验步骤见[ChatGPT 网页版注册登录与官网核验](https://www.codex-chinese.com/chatgpt/guides/chatgpt-official-entry-login-verification-2026)。网页版无需安装客户端；可用功能仍以账号权限、支持地区和页面当前状态为准。
 
 如果搜索到标注“ChatGPT 中文版”或“国内版”的其他网站，请先确认运营主体、账号体系、计费方式和隐私政策；第三方平台不等同 OpenAI 官网，账号和服务权益也不与官网互通。
 
@@ -146,10 +146,10 @@ LazyManAI 与 LuckAI 均为第三方平台，不代表 OpenAI；具体模型、�
 
 ## 九、相关阅读
 
-- [ChatGPT 登录不上、打不开怎么办？官网登录失败排查教程](/chatgpt/guides/chatgpt-login-failed-fix)：按顺序排查官网打不开、验证码失败、无限加载和登录异常。
-- [ChatGPT 图片生成完全指南：GPT Image 2 使用教程与提示词技巧](/chatgpt/guides/chatgpt-image-generation-guide-gpt-image-2-2026)：了解网页版生图入口、提示词写法和 API 参数区别。
-- [ChatGPT API 国内调用教程：官方 API、兼容接口与安全配置](/chatgpt/guides/chatgpt-api-china-tutorial)：核对官方 API、第三方兼容接口、Key 管理和常见错误。
-- [ChatGPT 完整指南：国内怎么用、官网注册与 ChatGPT 中文版选择](/chatgpt/guides/chatgpt-complete-guide-china-2026-oct)：进一步比较官网注册、中文版平台、模型选择和隐私安全。
+- [ChatGPT 登录不上、打不开怎么办？官网登录失败排查教程](https://www.codex-chinese.com/chatgpt/guides/chatgpt-login-failed-fix)：按顺序排查官网打不开、验证码失败、无限加载和登录异常。
+- [ChatGPT 图片生成完全指南：GPT Image 2 使用教程与提示词技巧](https://www.codex-chinese.com/chatgpt/guides/chatgpt-image-generation-guide-gpt-image-2-2026)：了解网页版生图入口、提示词写法和 API 参数区别。
+- [ChatGPT API 国内调用教程：官方 API、兼容接口与安全配置](https://www.codex-chinese.com/chatgpt/guides/chatgpt-api-china-tutorial)：核对官方 API、第三方兼容接口、Key 管理和常见错误。
+- [ChatGPT 完整指南：国内怎么用、官网注册与 ChatGPT 中文版选择](https://www.codex-chinese.com/chatgpt/guides/chatgpt-complete-guide-china-2026-oct)：进一步比较官网注册、中文版平台、模型选择和隐私安全。
 
 ## 十、ChatGPT 官网入口与国内使用常见问题
 
